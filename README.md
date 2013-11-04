@@ -23,6 +23,11 @@ Constructs a Voronoi diagram for a collection of points
 
 Author: Mikola Lysenko
 
+### [`half-edge`](http://en.wikipedia.org/wiki/Doubly_connected_edge_list)
+
+The half-edge data structure. This data structure provides efficient manipulation of the topological information associated with the objects in question (vertices, edges, faces).
+
+Author: Daniel Melanz
 
 # Ideas
 
